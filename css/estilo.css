@@ -3,7 +3,7 @@
   padding:0;
 }
 body{
-  background-color: chocolate;
+  background-color:white;
   color: white;
   font-size: large;
 }
@@ -21,3 +21,18 @@ iframe{
   height: 200px;
   resize: both;
 }
+.paneles
+
+p {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+
+
+  background-color: green;
+  color: yellow;
+  width: 40%;
+display:inline-block;
+}
+
